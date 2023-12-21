@@ -1,0 +1,259 @@
+body {
+    background-color: powderblue;
+}
+
+.societe {
+    width: 25rem;
+    height: 53.125rem;
+    border: 0.063rem gray;
+    border-radius: 1.25rem;
+    margin-top: -0.625rem;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: blanchedalmond;
+    position: relative;
+}
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2.188rem;
+    width: 18.75rem;
+    margin-top: -5.2rem;
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+}
+
+.Aperam {
+    border: 0.063rem gray;
+    max-width: 100%;
+    max-height: 100rem;
+    position: relative;
+    top: -17.8rem;
+    right: 5rem;
+}
+
+.text2 {
+    padding: 2.188rem;
+    width: 25rem;
+    background-color: blanchedalmond;
+    width: 20.625rem;
+    height: 40rem;
+    border-radius: 1.25rem;
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    right: -31.12rem;
+    top: -38.1rem;
+}
+
+img {
+    top: 0rem;
+    width: 12.5rem;
+    height: 4.375rem;
+    padding: 2.5rem;
+    right: -3rem;
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+}
+
+#image {
+    top: -35.3rem;
+    width: 20rem;
+    height: 6.3rem;
+    padding: 2.5rem;
+    border-radius: 1.25rem;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: blanchedalmond;   
+    position: relative;
+    right: -31.125rem;
+}
+
+.premiereActivitee {  
+    background-color: blanchedalmond;  
+    top: -109.25rem;  
+    padding: 5.688rem;  
+    border-radius: 1.25rem;
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url('html\ login.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: 52rem;
+    position: relative;
+    width: max-content;
+}
+
+
+.deuxiemeActivitee {
+    background-color: blanchedalmond;
+    top: -108.25rem;  
+    padding: 5.688rem;
+    border-radius: 1.25rem;
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url('htmlOral.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: 52rem;
+    position: relative;
+    width: max-content;
+}
+
+
+.troisiemeActivitee {
+    background-color: blanchedalmond;
+    top: -105.25rem;  
+    padding: 5.688rem;
+    border-radius: 1.25rem;
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url('wsl\ linux.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: 52rem;
+    position: relative;
+    width: max-content;
+    right: auto;
+}
+
+
+.activite {
+    max-width: 100%;
+    max-height: 100%;
+    color: white;
+}
+
+.oral {
+    border: 0.063rem gray;
+    border-radius: 1.25rem;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: blanchedalmond;
+    position: relative;
+    padding: 0.0001rem;
+    width: auto;
+    top: -0.5rem;
+}
+
+.nomPrenom {
+    max-width: 100%;
+    max-height: 100%;
+    position: auto;
+    right: auto;
+    left: auto;
+    width: auto;
+}
+
+.presentationOral {
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    left: 37rem;
+}
+
+.phishing {
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 2.188rem;
+    width: auto;
+    padding: 2.188rem;
+    height: 10rem;
+    position: relative;
+    right: auto;
+    left: auto;
+}
+
+#imageLogin {
+    height: 21.875rem;
+    width: 37.5rem;
+    padding: 0.625rem;
+    max-width: 100%;
+    position : relative;
+    border-radius: 2.25rem;
+    left: 10rem;
+}
+
+@media screen and (min-width: 1900px) {
+    #imageLogin {
+    padding: 10rem;
+    width: 60em;
+    height: 32rem;
+    top: 1rem;
+    }
+    }
+
+#htmlLogin {
+    height: 21.875rem;
+    width: 37.5rem;
+    padding: 0.625rem;
+    max-width: 100%;
+    position : relative;
+    border-radius: 2.25rem;
+    left : 10rem
+} 
+
+@media screen and (min-width: 1900px) {
+    #htmlLogin {
+        padding: 10rem;
+        width: 60em;
+        height: 32rem;
+        top: 1rem;
+        left: 20rem;
+    }
+    }
+
+#cssLogin {
+    height: 21.875rem;
+    width: 37.5rem;
+    padding: 0.625rem;
+    max-width: 100%;
+    position : relative;
+    border-radius: 2.25rem;
+    left: 10rem;
+}
+
+@media screen and (min-width: 1900px) {
+    #cssLogin {
+        padding: 10rem;
+        width: 60em;
+        height: 32rem;
+        top: 1rem;
+    }
+    }
+
+#jsLogin {
+        height: 21.875rem;
+        width: 37.5rem;
+        padding: 0.625rem;
+        right: 4.925rem;  
+        max-width: 100%;
+        position : relative;
+        border-radius: 2.25rem;
+        left: 10rem;
+}
+
+@media screen and (min-width: 1900px) {
+    #jsLogin {
+        padding: 10rem;
+        width: 60em;
+        height: 32rem;
+        top: 1rem;
+        left: 20rem;
+    }
+    }
+    
+.dockerText {
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 2.188rem;
+    width: auto;
+    padding: 2.188rem;
+    height: 15rem;
+    position: relative;
+    right: auto;
+    left: auto;
+}
